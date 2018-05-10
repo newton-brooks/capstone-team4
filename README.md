@@ -33,11 +33,11 @@ npm start
 
 
 ## Contributors
-[Newton Brooks](https://github.com/newton-brooks) - Scrum Master
-[Elon Jefferson](https://github.com/Edje-C) - UX/UI Lead
-[Monique Mojica](https://github.com/mon33k) - Project Manager
-[Simon Garvaria](https://github.com/simongaviria1) - Technical Lead
-[Carlo Valenti](https://github.com/cval-c4q) - Demo Lead
+- [Newton Brooks](https://github.com/newton-brooks) - Scrum Master
+- [Elon Jefferson](https://github.com/Edje-C) - UX/UI Lead
+- [Monique Mojica](https://github.com/mon33k) - Project Manager
+- [Simon Garvaria](https://github.com/simongaviria1) - Technical Lead
+- [Carlo Valenti](https://github.com/cval-c4q) - Demo Lead
 
 
 ## Fun Facts
